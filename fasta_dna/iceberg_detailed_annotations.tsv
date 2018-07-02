@@ -1,0 +1,367 @@
+Header	Accession	Name	Start	Stop
+ICEberg|2|CTn341|GenBank|AY515263|1..51993 Bacteroides fragilis conjugative transposon CTn341, complete sequence.	AY515263	CTn341	1	51993 
+ICEberg|12|ICEVchBan5|GenBank|GQ463140|1..102122 Vibrio cholerae Ban5 integrating conjugative element ICEVchban5, complete sequence.	GQ463140	ICEVchBan5	1	102122 
+ICEberg|16|ICEVchBan9|GenBank|CP001485|2958347..3066049 Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	CP001485	ICEVchBan9	2958347	3066049 
+ICEberg|21|ICEVchInd4|GenBank|GQ463141|1..95326 Vibrio cholerae Ind4 integrating conjugative element ICEVchind4, complete sequence.	GQ463141	ICEVchInd4	1	95326 
+ICEberg|22|ICEVchInd5|GenBank|GQ463142|1..97952 Vibrio cholerae Ind5 integrating conjugative element ICEVchind5, complete sequence.	GQ463142	ICEVchInd5	1	97952 
+ICEberg|23|ICEVchMex1|GenBank|GQ463143|1..83194 Vibrio cholerae Mex1 integrating conjugative element ICEVchmex1, complete sequence.	GQ463143	ICEVchMex1	1	83194 
+ICEberg|36|ICEVflInd1|GenBank|GQ463144|1..114195 Vibrio fluvialis Ind1 integrating conjugative element ICEVflInd1, complete sequence.	GQ463144	ICEVflInd1	1	114195 
+ICEberg|37|ICEPalBan1|GenBank|GQ463139|1..96676 Providencia alcalifaciens Ban1 integrating conjugative element ICEPalban1, complete sequence.	GQ463139	ICEPalBan1	1	96676 
+ICEberg|38|ICEPdaSpa1|GenBank|AJ870986|1..102985 Photobacterium damselae subsp. piscicida integrative and conjugative element ICEPdaSpa1, isolate PC554.2.	AJ870986	ICEPdaSpa1	1	102985 
+ICEberg|39|ICESpuPO1|GenBank|CP000503|1224492..1335682 Shewanella sp. W3-18-1, complete genome.	CP000503	ICESpuPO1	1224492	1335682 
+ICEberg|40|ICEPmiUSA1|GenBank|AM942759|2649499..2730130 Proteus mirabilis strain HI4320, complete genome.	AM942759	ICEPmiUSA1	2649499	2730130 
+ICEberg|43|R391|GenBank|AY090559|1..88532 Providencia rettgeri conjugative genomic island R391, complete sequence.	AY090559	R391	1	88532 
+ICEberg|44|SXT(MO10)|GenBank|AY055428|1..99483 Vibrio cholerae STX transposon-like element and pilus assembly region, complete sequence.	AY055428	SXT(MO10)	1	99483 
+ICEberg|45|Tn916|GenBank|U09422|1..18032 Enterococcus faecalis DS16 transposon Tn916, (tet(M)), (Xis-Tn), (Int-Tn) genes, ORFs 1-24, complete cds, complete sequence.	U09422	Tn916	1	18032 
+ICEberg|46|Tn4371|GenBank|AJ536756|1..54657 Ralstonia oxalatica transposon Tn4371.	AJ536756	Tn4371	1	54657 
+ICEberg|47|Tn5251(partofTn5253)|GenBank|FJ711160|1..18033 Streptococcus pneumoniae transposon TN5251, complete sequence.	FJ711160	Tn5251(partofTn5253)	1	18033 
+ICEberg|56|ICEclc(B13)|GenBank|AJ617740|60..102843 Pseudomonas putida clc transposon.	AJ617740	ICEclc(B13)	60	102843 
+ICEberg|59|ICEBs1|GenBank|AL009126|529423..549932 Bacillus subtilis subsp. subtilis str. 168 complete genome.	AL009126	ICEBs1	529423	549932 
+ICEberg|60|ICEHin1056|GenBank|AJ627386|1..59393 Haemophilus influenzae plasmid ICEhin1056.	AJ627386	ICEHin1056	1	59393 
+ICEberg|62|CTn6002|GenBank|AY898750|1..20880 Streptococcus cristatus transposon Tn6002, complete sequence.	AY898750	CTn6002	1	20880 
+ICEberg|64|CTnBST|GenBank|AY345595|1..100903 Bacteroides uniformis strain WH207 transposon CTnBST, complete sequence.	AY345595	CTnBST	1	100903 
+ICEberg|66|CTnscr94|GenBank|FN298496|11966..126312 Salmonella enterica subsp. enterica integrative and conjugative element CTnscr94 region, serovar Senftenberg, strain 5494-57.	FN298496	CTnscr94	11966	126312 
+ICEberg|67|Tn6000(EfcTn1)|GenBank|FN555436|1..33262 Enterococcus casseliflavus conjugative transposon Tn6000, strain 664.1H1.	FN555436	Tn6000(EfcTn1)	1	33262 
+ICEberg|68|ICE6013|GenBank|FJ231270|1..19905 Staphylococcus aureus strain HDG2 integrating conjugative element ICE6013, complete sequence.	FJ231270	ICE6013	1	19905 
+ICEberg|69|ICEA(5632)-I|GenBank|FP671138|813253..840487 Mycoplasma agalactiae 5632 chromosome, complete sequence.	FP671138	ICEA(5632)-I	813253	840487 
+ICEberg|70|ICEEc1|GenBank|AY233333|1..38927 Escherichia coli strain ECOR31 high pathogenicity island, complete sequence.	AY233333	ICEEc1	1	38927 
+ICEberg|71|ICEEc2|GenBank|GU725392|77..93971 Escherichia coli strain BEN374 AGI-5 integrative and conjugative element.	GU725392	ICEEc2	77	93971 
+ICEberg|72|ICEF-I|GenBank|AY168953|2674..26451 Mycoplasma fermentans strain PG18 LicA (licA), and LepA (lepA), complete cds; insertion sequence ISMi1, partial sequence; integrative conjugal element ICEF-IA, complete sequence.	AY168953	ICEF-I	2674	26451 
+ICEberg|74|ICEEcIHE3034-1|GenBank|AM229678|292..54752 Escherichia coli colibactin polyketide biosynthesis gene cluster and flanking regions, strain IHE3034.	AM229678	ICEEcIHE3034-1	292	54752 
+ICEberg|76|ICESde3396|GenBank|EU142041|1..63668 Streptococcus dysgalactiae subsp. equisimilis strain NS3396 integrative conjugative element ICESde3396, complete sequence.	EU142041	ICESde3396	1	63668 
+ICEberg|77|ICESe2|GenBank|FM204883|1206317..1269371 Streptococcus equi subsp. equi 4047, complete genome.	FM204883	ICESe2	1206317	1269371 
+ICEberg|78|ICESt1|GenBank|AJ278471|1290..36049 Streptococcus thermophilus site-specific integrative conjugative element ICESt1 and flanking regions.	AJ278471	ICESt1	1290	36049 
+ICEberg|79|ICESt3|GenBank|AJ586568|204..28293 Streptococcus thermophilus site-specific integrative and potentially conjugative element ICESt3 and flanking regions.	AJ586568	ICESt3	204	28293 
+ICEberg|80|ICESpn8140|GenBank|FR671412|1..26888 Streptococcus pneumoniae integrative and conjugative element ICESpn8140, strain 8140.	FR671412	ICESpn8140	1	26888 
+ICEberg|81|ICESpnMalM6|GenBank|FR671413|1..23032 Streptococcus pneumoniae Tn916-type integrative and conjugative element, strain Mal M6.	FR671413	ICESpnMalM6	1	23032 
+ICEberg|82|ICESpnH034800032|GenBank|FR671414|1..20370 Streptococcus pneumoniae Tn916-type integrative and conjugative element, strain H034800032.	FR671414	ICESpnH034800032	1	20370 
+ICEberg|83|ICESpn23771|GenBank|FR671415|1..25880 Streptococcus pneumoniae Tn916-type integrative and conjugative element, strain 23771.	FR671415	ICESpn23771	1	25880 
+ICEberg|84|ICESpn11930|GenBank|FR671403|1..73716 Streptococcus pneumoniae integrative and conjugative element ICESpn11930, strain 11930.	FR671403	ICESpn11930	1	73716 
+ICEberg|85|ICESpn11930-2|GenBank|FR671416|1..25645 Streptococcus pneumoniae Tn916-type integrative and conjugative element, strain 11930.	FR671416	ICESpn11930-2	1	25645 
+ICEberg|86|ICESpn11928|GenBank|FR671417|1..22793 Streptococcus pneumoniae Tn916-type integrative and conjugative element, strain 11928.	FR671417	ICESpn11928	1	22793 
+ICEberg|87|ICESpn9409|GenBank|FR671418|1..22765 Streptococcus pneumoniae Tn916-type integrative and conjugative element, strain 9409.	FR671418	ICESpn9409	1	22765 
+ICEberg|88|ICESpn11876|GenBank|FR671404|1..71516 Streptococcus pneumoniae integrative and conjugative element ICESpn11876, strain 11876.	FR671404	ICESpn11876	1	71516 
+ICEberg|92|Tn1549|GenBank|AF192329|1..33805 Enterococcus faecalis transposon Tn1549, complete sequence.	AF192329	Tn1549	1	33805 
+ICEberg|102|Tn5386|GenBank|DQ321786|67..29238 Enterococcus faecium strain D344R transposon Tn5386, complete sequence.	DQ321786	Tn5386	67	29238 
+ICEberg|103|Tn5397|GenBank|AM180355|585384..606040 Clostridium difficile 630 complete genome.	AM180355	Tn5397	585384	606040 
+ICEberg|118|pSA1|GenBank|NC_002112|1..9014 Streptomyces cyaneus plasmid pSA1.1, complete sequence.	NC_002112	pSA1	1	9014 
+ICEberg|122|pMEA100|GenBank|EU149765|1..23290 Amycolatopsis mediterranei plasmid pMEA100, complete sequence.	EU149765	pMEA100	1	23290 
+ICEberg|123|pMEA300|GenBank|L36679|1..13285 Amycolatopsis methanolica plasmid pMEA300 stf gene, complete cds.	L36679	pMEA300	1	13285 
+ICEberg|126|ICEKp1|GenBank|AP006725|3395836..3471770 Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044 DNA, complete genome.	AP006725	ICEKp1	3395836	3471770 
+ICEberg|133|ICEMloMAF-1|GenBank|BA000012|4643427..5255769 Mesorhizobium loti MAFF303099 DNA, complete genome.	BA000012	ICEMloMAF-1	4643427	5255769 
+ICEberg|150|pMR2|GenBank|AY860110|1..11188 Micromonospora rosaria strain SCC2095 plasmid pMR2, complete sequence.	AY860110	pMR2	1	11188 
+ICEberg|152|CTn9343|GenBank|CR626927|1727162..1804281 Bacteroides fragilis NCTC 9343, complete genome.	CR626927	CTn9343	1727162	1804281 
+ICEberg|156|pSE102|GenBank|AM420293|273573..285239 Saccharopolyspora erythraea NRRL2338 complete genome.	AM420293	pSE102	273573	285239 
+ICEberg|157|pSE211|GenBank|AM420293|7823295..7840549 Saccharopolyspora erythraea NRRL2338 complete genome.	AM420293	pSE211	7823295	7840549 
+ICEberg|158|pSE222|GenBank|AM420293|1245945..1266370 Saccharopolyspora erythraea NRRL2338 complete genome.	AM420293	pSE222	1245945	1266370 
+ICEberg|159|TnGBS2(genomicislandX)|GenBank|NC_004368|1163887..1197331 Streptococcus agalactiae NEM316, complete genome.	NC_004368	TnGBS2(genomicislandX)	1163887	1197331 
+ICEberg|160|TnGBS1|GenBank|NC_004368|385757..432824 Streptococcus agalactiae NEM316, complete genome.	NC_004368	TnGBS1	385757	432824 
+ICEberg|161|pNEM316-1(islandVII)|GenBank|NC_004368|711824..758891 Streptococcus agalactiae NEM316, complete genome.	NC_004368	pNEM316-1(islandVII)	711824	758891 
+ICEberg|162|pNEM316-1(islandVIII)|GenBank|NC_004368|1013025..1060094 Streptococcus agalactiae NEM316, complete genome.	NC_004368	pNEM316-1(islandVIII)	1013025	1060094 
+ICEberg|163|SLP1|GenBank|NC_003888|5038594..5055797 Streptomyces coelicolor A3(2) chromosome, complete genome.	NC_003888	SLP1	5038594	5055797 
+ICEberg|165|ICE6094|GenBank|FR670347|1..61030 Streptococcus pneumoniae partial integrative and conjugative element ICE6094, strain Pn19.	FR670347	ICE6094	1	61030 
+ICEberg|166|ICE-KKS|GenBank|AB546270|1..61807 Acidovorax sp. KKS102 DNA, integrative and conjugative element ICE-KKS region.	AB546270	ICE-KKS	1	61807 
+ICEberg|172|Tn1207.3|GenBank|AY657002|1..52491 Streptococcus pyogenes 2812A conjugative transposon Tn1207.3, complete sequence.	AY657002	Tn1207.3	1	52491 
+ICEberg|173|pKLC102|GenBank|AY257538|1..103532 Pseudomonas aeruginosa strain C plasmid pKLC102, complete sequence.	AY257538	pKLC102	1	103532 
+ICEberg|174|PAGI-2|GenBank|AF440523|27286..132240 Pseudomonas aeruginosa strain C genomic sequence, gene island PAGI-2(C).	AF440523	PAGI-2	27286	132240 
+ICEberg|175|PAPI-1|GenBank|CP000438|5251440..5359392 Pseudomonas aeruginosa UCBPP-PA14, complete genome.	CP000438	PAPI-1	5251440	5359392 
+ICEberg|176|PAGI-5|GenBank|EF611301|1..99276 Pseudomonas aeruginosa PAGI-5 genomic island sequence.	EF611301	PAGI-5	1	99276 
+ICEberg|181|10750-RD.2|GenBank|CP000262|1621728..1670248 Streptococcus pyogenes MGAS10750, complete genome.	CP000262	10750-RD.2	1621728	1670248 
+ICEberg|182|10750-RD.1|GenBank|CP000262|902811..918225 Streptococcus pyogenes MGAS10750, complete genome.	CP000262	10750-RD.1	902811	918225 
+ICEberg|183|2096-RD.2|GenBank|CP000261|1057904..1120305 Streptococcus pyogenes MGAS2096, complete genome.	CP000261	2096-RD.2	1057904	1120305 
+ICEberg|184|2096-RD.1|GenBank|CP000261|841628..856896 Streptococcus pyogenes MGAS2096, complete genome.	CP000261	2096-RD.1	841628	856896 
+ICEberg|185|9429-RD.1|GenBank|CP000259|880857..895709 Streptococcus pyogenes MGAS9429, complete genome.	CP000259	9429-RD.1	880857	895709 
+ICEberg|186|6180-RD.1|GenBank|CP000056|1081126..1091670 Streptococcus pyogenes MGAS6180, complete genome.	CP000056	6180-RD.1	1081126	1091670 
+ICEberg|187|6180-RD.2|GenBank|CP000056|1284967..1322395 Streptococcus pyogenes MGAS6180, complete genome.	CP000056	6180-RD.2	1284967	1322395 
+ICEberg|188|370-RD.1|GenBank|AE004092|884024..893806 Streptococcus pyogenes M1 GAS, complete genome.	AE004092	370-RD.1	884024	893806 
+ICEberg|189|5005-RD.1|GenBank|CP000017|802286..812201 Streptococcus pyogenes MGAS5005, complete genome.	CP000017	5005-RD.1	802286	812201 
+ICEberg|190|10270-RD.1|GenBank|CP000260|871808..887174 Streptococcus pyogenes MGAS10270, complete genome.	CP000260	10270-RD.1	871808	887174 
+ICEberg|191|10270-RD.2|GenBank|CP000260|1312338..1346637 Streptococcus pyogenes MGAS10270, complete genome.	CP000260	10270-RD.2	1312338	1346637 
+ICEberg|192|ICE(Tn4371)6033|GenBank|CP001068|2715199..2769318 Ralstonia pickettii 12J chromosome 1, complete sequence.	CP001068	ICE(Tn4371)6033	2715199	2769318 
+ICEberg|193|ICE(Tn4371)6034|GenBank|CP000469|1458447..1503679 Shewanella sp. ANA-3 chromosome 1, complete sequence.	CP000469	ICE(Tn4371)6034	1458447	1503679 
+ICEberg|194|ICE(Tn4371)6035|GenBank|NZ_AAOA01000008|133371..184030 Congregibacter litoralis KT71 1097664134142, whole genome shotgun sequence.	NZ_AAOA01000008	ICE(Tn4371)6035	133371	184030 
+ICEberg|195|ICE(Tn4371)6036|GenBank|CP000512|730667..790510 Acidovorax citrulli AAC00-1, complete genome.	CP000512	ICE(Tn4371)6036	730667	790510 
+ICEberg|196|ICE(Tn4371)6037|GenBank|CP000884|2958779..3016679 Delftia acidovorans SPH-1, complete genome.	CP000884	ICE(Tn4371)6037	2958779	3016679 
+ICEberg|197|ICE(Tn4371)6038|GenBank|AAUJ02000001|3228493..3280947 Comamonas testosteroni KF-1 ctg14069, whole genome shotgun sequence.	AAUJ02000001	ICE(Tn4371)6038	3228493	3280947 
+ICEberg|198|ICE(Tn4371)6039|GenBank|CP000539|3075815..3129303 Acidovorax sp. JS42, complete genome.	CP000539	ICE(Tn4371)6039	3075815	3129303 
+ICEberg|199|ICE(Tn4371)6040|GenBank|AM902716|2250540..2297731 Bordetella petrii strain DSM 12804, complete genome.	AM902716	ICE(Tn4371)6040	2250540	2297731 
+ICEberg|200|ICE(Tn4371)6041|GenBank|NZ_AAKW01000024|1554..50091 Pseudomonas aeruginosa 2192 cont1.24, whole genome shotgun sequence.	NZ_AAKW01000024	ICE(Tn4371)6041	1554	50091 
+ICEberg|201|ICE(Tn4371)6042|GenBank|CP000744|3829571..3884857 Pseudomonas aeruginosa PA7, complete genome.	CP000744	ICE(Tn4371)6042	3829571	3884857 
+ICEberg|202|ICE(Tn4371)6066|GenBank|CP001392|3746937..3795957 Acidovorax ebreus TPSY, complete genome.	CP001392	ICE(Tn4371)6066	3746937	3795957 
+ICEberg|203|ICE(Tn4371)6067|GenBank|CP000884|2949925..3016679 Delftia acidovorans SPH-1, complete genome.	CP000884	ICE(Tn4371)6067	2949925	3016679 
+ICEberg|204|ICE(Tn4371)6068|GenBank|AM743169|1324222..1367730 Stenotrophomonas maltophilia K279a complete genome, strain K279a.	AM743169	ICE(Tn4371)6068	1324222	1367730 
+ICEberg|205|ICE(Tn4371)6070|GenBank|EU595746|1853..44008 Pseudomonas aeruginosa strain PACS171b clone fa1382, complete sequence.	EU595746	ICE(Tn4371)6070	1853	44008 
+ICEberg|206|AICEFraal5456|GenBank|CT573213|5891518..5904762 Frankia alni str. ACN14A chromosome, complete sequence.	CT573213	AICEFraal5456	5891518	5904762 
+ICEberg|207|AICEFranean5323|GenBank|CP000820|6413625..6432943 Frankia sp. EAN1pec, complete genome.	CP000820	AICEFranean5323	6413625	6432943 
+ICEberg|208|AICEFranean6303|GenBank|CP000820|7658758..7678702 Frankia sp. EAN1pec, complete genome.	CP000820	AICEFranean6303	7658758	7678702 
+ICEberg|209|AICEMflv3036|GenBank|CP000656|3199938..3217693 Mycobacterium gilvum PYR-GCK, complete genome.	CP000656	AICEMflv3036	3199938	3217693 
+ICEberg|210|AICESare1562|GenBank|CP000850|1797449..1810446 Salinispora arenicola CNS-205, complete genome.	CP000850	AICESare1562	1797449	1810446 
+ICEberg|211|AICESare1922|GenBank|CP000850|2218415..2232534 Salinispora arenicola CNS-205, complete genome.	CP000850	AICESare1922	2218415	2232534 
+ICEberg|212|AICESav3708|GenBank|BA000030|4589836..4613219 Streptomyces avermitilis MA-4680 DNA, complete genome.	BA000030	AICESav3708	4589836	4613219 
+ICEberg|213|AICESav3728|GenBank|BA000030|4614801..4636144 Streptomyces avermitilis MA-4680 DNA, complete genome.	BA000030	AICESav3728	4614801	4636144 
+ICEberg|216|AICEStrop0058|GenBank|CP000667|67688..81948 Salinispora tropica CNB-440, complete genome.	CP000667	AICEStrop0058	67688	81948 
+ICEberg|219|ICE-GI1|GenBank|AM902716|1083989..1339502 Bordetella petrii strain DSM 12804, complete genome.	AM902716	ICE-GI1	1083989	1339502 
+ICEberg|220|ICE-GI2|GenBank|AM902716|1350129..1493558 Bordetella petrii strain DSM 12804, complete genome.	AM902716	ICE-GI2	1350129	1493558 
+ICEberg|221|ICE-GI3|GenBank|AM902716|1493541..1595651 Bordetella petrii strain DSM 12804, complete genome.	AM902716	ICE-GI3	1493541	1595651 
+ICEberg|222|ICE-GI6|GenBank|AM902716|4417743..4576839 Bordetella petrii strain DSM 12804, complete genome.	AM902716	ICE-GI6	4417743	4576839 
+ICEberg|223|ICEMmc-GM12|GenBank|CP001668|670961..700540 Mycoplasma mycoides subsp. capri str. GM12 transgenic clone deltatypeIIIres, complete genome.	CP001668	ICEMmc-GM12	670961	700540 
+ICEberg|224|Tn5801|GenBank|BA000017|436064..461681 Staphylococcus aureus subsp. aureus Mu50 DNA, complete genome.	BA000017	Tn5801	436064	461681 
+ICEberg|225|ICEA(5632)-II|GenBank|FP671138|343591..370761 Mycoplasma agalactiae 5632 chromosome, complete sequence.	FP671138	ICEA(5632)-II	343591	370761 
+ICEberg|226|ICEA(5632)-III|GenBank|FP671138|560640..587874 Mycoplasma agalactiae 5632 chromosome, complete sequence.	FP671138	ICEA(5632)-III	560640	587874 
+ICEberg|229|ICEA(PG2)|GenBank|CU179680|455934..477797 Mycoplasma agalactiae PG2 chromosome, complete sequence.	CU179680	ICEA(PG2)	455934	477797 
+ICEberg|230|ICESp23FST81|GenBank|FM211187|1207785..1288800 Streptococcus pneumoniae ATCC 700669 complete genome.	FM211187	ICESp23FST81	1207785	1288800 
+ICEberg|231|Sp23F_PPI-1|GenBank|FM211187|922465..951058 Streptococcus pneumoniae ATCC 700669 complete genome.	FM211187	Sp23F_PPI-1	922465	951058 
+ICEberg|232|ICESsu(BM407)1|GenBank|FM252032|504649..580365 Streptococcus suis BM407 complet genome, strain BM407.	FM252032	ICESsu(BM407)1	504649	580365 
+ICEberg|233|ICESsu(BM407)2|GenBank|FM252032|1005794..1086113 Streptococcus suis BM407 complet genome, strain BM407.	FM252032	ICESsu(BM407)2	1005794	1086113 
+ICEberg|234|ICESsu(SC84)|GenBank|FM252031|872762..961926 Streptococcus suis SC84 complete genome, strain SC84.	FM252031	ICESsu(SC84)	872762	961926 
+ICEberg|235|PFGI-1|GenBank|CP000076|5378468..5493586 Pseudomonas fluorescens Pf-5, complete genome.	CP000076	PFGI-1	5378468	5493586 
+ICEberg|237|AICESare1208|GenBank|CP000850|1357773..1375276 Salinispora arenicola CNS-205, complete genome.	CP000850	AICESare1208	1357773	1375276 
+ICEberg|238|AICESco3937|GenBank|AL645882|4324441..4333647 Streptomyces coelicolor A3(2) complete genome.	AL645882	AICESco3937	4324441	4333647 
+ICEberg|239|AICESco3997|GenBank|AL645882|4382898..4392000 Streptomyces coelicolor A3(2) complete genome.	AL645882	AICESco3997	4382898	4392000 
+ICEberg|240|ICEMmc95010-1a|GenBank|FQ377874|270699..300750 Mycoplasma mycoides subsp. capri LC str. 95010 chromosome, complete sequence.	FQ377874	ICEMmc95010-1a	270699	300750 
+ICEberg|241|ICEMmc95010-1b|GenBank|FQ377874|381650..411119 Mycoplasma mycoides subsp. capri LC str. 95010 chromosome, complete sequence.	FQ377874	ICEMmc95010-1b	381650	411119 
+ICEberg|242|HHGI1|GenBank|AE017125|223218..294244 Helicobacter hepaticus ATCC 51449, complete genome.	AE017125	HHGI1	223218	294244 
+ICEberg|288|SPI-7|GenBank|AL513382|4409574..4543073 Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete chromosome.	AL513382	SPI-7	4409574	4543073 
+ICEberg|289|ICELm1|GenBank|AL591824|1131501..1149734 Listeria monocytogenes strain EGD, complete genome.	AL591824	ICELm1	1131501	1149734 
+ICEberg|303|Tn916(pAM120)|GenBank|U49939|1344..19375 Cloning vector pAM120, complete sequence.	U49939	Tn916(pAM120)	1344	19375 
+ICEberg|304|ICESga43143-1|GenBank|AP012053|1643376..1661407 Streptococcus gallolyticus subsp. gallolyticus ATCC 43143 DNA, complete genome.	AP012053	ICESga43143-1	1643376	1661407 
+ICEberg|305|ICESauST398-1|GenBank|AM990992|997771..1015802 Staphylococcus aureus subsp. aureus ST398 complete genome, isolate SO385.	AM990992	ICESauST398-1	997771	1015802 
+ICEberg|306|Tn925|GenBank|AY855841|40068..58099 Enterococcus faecalis plasmid pCF10, complete sequence.	AY855841	Tn925	40068	58099 
+ICEberg|308|ICESpaNUF1049|GenBank|AB468159|3016..21046 Streptococcus parauberis DNA, Tn916-like element and flanking region.	AB468159	ICESpaNUF1049	3016	21046 
+ICEberg|309|ICESag2603VR-1|GenBank|AE009948|923465..941495 Streptococcus agalactiae 2603V/R, complete genome.	AE009948	ICESag2603VR-1	923465	941495 
+ICEberg|311|ICESsu05ZYH33-1|GenBank|CP000407|888251..906281 Streptococcus suis 05ZYH33, complete genome.	CP000407	ICESsu05ZYH33-1	888251	906281 
+ICEberg|313|ICESsu98HAH33-1|GenBank|CP000408|887958..905988 Streptococcus suis 98HAH33, complete genome.	CP000408	ICESsu98HAH33-1	887958	905988 
+ICEberg|316|ICESpnCGSP14-1|GenBank|CP001033|159595..182718 Streptococcus pneumoniae CGSP14, complete genome.	CP001033	ICESpnCGSP14-1	159595	182718 
+ICEberg|317|Tn2008|GenBank|CP001033|1259712..1327343 Streptococcus pneumoniae CGSP14, complete genome.	CP001033	Tn2008	1259712	1327343 
+ICEberg|318|Tn6085b|GenBank|HM243623|12581..33370 Enterococcus faecium C68 assembly_C68_1782 transposon Tn6085, complete sequence.	HM243623	Tn6085b	12581	33370 
+ICEberg|319|Tn6085a|GenBank|HM243621|6653..27441 Enterococcus faecium C68 assembly_C68_1216 transposon Tn6085, complete sequence.	HM243621	Tn6085a	6653	27441 
+ICEberg|321|Tn6003|GenBank|AM410044|1..25101 Streptococcus pneumoniae transposon Tn6003, strain Ar4.	AM410044	Tn6003	1	25101 
+ICEberg|322|ICESgal1|GenBank|FN597254|1738037..1787519 Streptococcus gallolyticus UCN34 complete genome.	FN597254	ICESgal1	1738037	1787519 
+ICEberg|325|Tn2010|GenBank|AB426620|1..26390 Streptococcus pneumoniae transposon Tn2010 DNA, complete sequence, strain: 05P294.	AB426620	Tn2010	1	26390 
+ICEberg|328|Tn6084|GenBank|HM243622|34197..56508 Enterococcus faecium C68 assembly_C68_1217 transposon Tn6084, complete sequence.	HM243622	Tn6084	34197	56508 
+ICEberg|332|ICE(Tn4371)6069|GenBank|CP000438|2678435..2721213 Pseudomonas aeruginosa UCBPP-PA14, complete genome.	CP000438	ICE(Tn4371)6069	2678435	2721213 
+ICEberg|333|ICE(Tn4371)6071|GenBank|CP001339|1988584..2031125 Thioalkalivibrio sulfidophilus HL-EbGr7, complete genome.	CP001339	ICE(Tn4371)6071	1988584	2031125 
+ICEberg|335|ICERsoGMI1000-1|GenBank|AL646052|2780064..2825985 Ralstonia solanacearum GMI1000 chromosome complete sequence.	AL646052	ICERsoGMI1000-1	2780064	2825985 
+ICEberg|337|CMGI-2|GenBank|CP000352|1359263..1460900 Cupriavidus metallidurans CH34, complete genome.	CP000352	CMGI-2	1359263	1460900 
+ICEberg|338|CMGI-3|GenBank|CP000352|1585489..1682531 Cupriavidus metallidurans CH34, complete genome.	CP000352	CMGI-3	1585489	1682531 
+ICEberg|339|ICE(Tn4371)6064|GenBank|CP001408|896551..945569 Burkholderia pseudomallei MSHR346 chromosome I, complete sequence.	CP001408	ICE(Tn4371)6064	896551	945569 
+ICEberg|340|ICE(Tn4371)6065|GenBank|CP000530|12802..81711 Polaromonas naphthalenivorans CJ2 plasmid pPNAP01, complete sequence.	CP000530	ICE(Tn4371)6065	12802	81711 
+ICEberg|346|ICEHinB|GenBank|FQ312006|87548..143543 Haemophilus influenzae 10810 genome.	FQ312006	ICEHinB	87548	143543 
+ICEberg|347|ICEhinR2866|GenBank|CP002277|555283..608328 Haemophilus influenzae R2866, complete genome.	CP002277	ICEhinR2866	555283	608328 
+ICEberg|348|ICEHin299|GenBank|AM884334|1..53902 Haemophilus influenzae parA gene for chromosome partitioning protein, strain 299.	AM884334	ICEHin299	1	53902 
+ICEberg|349|ICEHpa8f|GenBank|AM884335|1..52725 Haemophilus influenzae parA gene for chromosome partitioning protein, strain 8f.	AM884335	ICEHpa8f	1	52725 
+ICEberg|350|ICEHpaT3T1|GenBank|FQ312002|1153089..1213144 Haemophilus parainfluenzae T3T1 genome.	FQ312002	ICEHpaT3T1	1153089	1213144 
+ICEberg|354|ICESa1|GenBank|AM990992|74898..88270 Staphylococcus aureus subsp. aureus ST398 complete genome, isolate SO385.	AM990992	ICESa1	74898	88270 
+ICEberg|355|ICESa2|GenBank|AM990992|1956986..1972289 Staphylococcus aureus subsp. aureus ST398 complete genome, isolate SO385.	AM990992	ICESa2	1956986	1972289 
+ICEberg|358|Tn6012|GenBank|AB435014|928..14266 Staphylococcus aureus DNA, type-II.5 staphylococcal cassette chromosome mec, strain: JCSC6826.	AB435014	Tn6012	928	14266 
+ICEberg|374|HPI-ICEEh1|GenBank|FN297818|42411..108644 Enterobacter hormaechei recombination hotspot with five putative genomic islands, isolate 05-545.	FN297818	HPI-ICEEh1	42411	108644 
+ICEberg|375|ICEPm1|GenBank|AM942759|2793762..2886224 Proteus mirabilis strain HI4320, complete genome.	AM942759	ICEPm1	2793762	2886224 
+ICEberg|376|ICEEfaV583-1|GenBank|AE016830|2204066..2258320 Enterococcus faecalis V583, complete genome.	AE016830	ICEEfaV583-1	2204066	2258320 
+ICEberg|377|ICESa2603|GenBank|AE009948|1256680..1311028 Streptococcus agalactiae 2603V/R, complete genome.	AE009948	ICESa2603	1256680	1311028 
+ICEberg|386|CTnPg1-a|GenBank|AP009380|57961..103060 Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	AP009380	CTnPg1-a	57961	103060 
+ICEberg|387|CTnPg1-b|GenBank|AP009380|1429021..1439368 Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	AP009380	CTnPg1-b	1429021	1439368 
+ICEberg|388|CTnPg2|GenBank|AP009380|627916..655108 Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	AP009380	CTnPg2	627916	655108 
+ICEberg|389|CTnPg3|GenBank|AP009380|1021623..1039207 Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	AP009380	CTnPg3	1021623	1039207 
+ICEberg|390|ICEBvu8482-1|GenBank|CP000139|899681..976456 Bacteroides vulgatus ATCC 8482, complete genome.	CP000139	ICEBvu8482-1	899681	976456 
+ICEberg|391|ICEBvu8482-2|GenBank|CP000139|1962094..2051867 Bacteroides vulgatus ATCC 8482, complete genome.	CP000139	ICEBvu8482-2	1962094	2051867 
+ICEberg|392|ICEB2|GenBank|CP002188|210737..248144 Mycoplasma bovis PG45 clone MU clone A2, complete genome.	CP002188	ICEB2	210737	248144 
+ICEberg|393|ICEB-1|GenBank|CP002188|549679..572949 Mycoplasma bovis PG45 clone MU clone A2, complete genome.	CP002188	ICEB-1	549679	572949 
+ICEberg|395|TnSmu1|GenBank|AE014133|192029..206864 Streptococcus mutans UA159, complete genome.	AE014133	TnSmu1	192029	206864 
+ICEberg|396|ICEHpyP12-1|GenBank|CP001217|451991..494695 Helicobacter pylori P12, complete genome.	CP001217	ICEHpyP12-1	451991	494695 
+ICEberg|397|ICEHpyP12-2|GenBank|CP001217|1394776..1425410 Helicobacter pylori P12, complete genome.	CP001217	ICEHpyP12-2	1394776	1425410 
+ICEberg|398|CTn1|GenBank|AM180355|428851..453332 Clostridium difficile 630 complete genome.	AM180355	CTn1	428851	453332 
+ICEberg|399|CTn2|GenBank|AM180355|480597..520127 Clostridium difficile 630 complete genome.	AM180355	CTn2	480597	520127 
+ICEberg|400|CTn4|GenBank|AM180355|1284507..1314481 Clostridium difficile 630 complete genome.	AM180355	CTn4	1284507	1314481 
+ICEberg|401|CTn5|GenBank|AM180355|2137789..2181291 Clostridium difficile 630 complete genome.	AM180355	CTn5	2137789	2181291 
+ICEberg|402|CTn6|GenBank|AM180355|3890925..3910292 Clostridium difficile 630 complete genome.	AM180355	CTn6	3890925	3910292 
+ICEberg|403|CTn7|GenBank|AM180355|3938102..3963961 Clostridium difficile 630 complete genome.	AM180355	CTn7	3938102	3963961 
+ICEberg|405|YAPI(ye)|GenBank|AM286415|3761945..3828088 Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	AM286415	YAPI(ye)	3761945	3828088 
+ICEberg|406|YAPI|GenBank|AJ627388|1402..99513 Yersinia pseudotuberculosis adhesion pathogenicity island (YAPI), complete sequence, strain 32777.	AJ627388	YAPI	1402	99513 
+ICEberg|407|YAPI(IP32777)|GenBank|CP000720|4157207..4221900 Yersinia pseudotuberculosis IP 31758, complete genome.	CP000720	YAPI(IP32777)	4157207	4221900 
+ICEberg|408|ICESpy10394-1|GenBank|CP000003|1119537..1172028 Streptococcus pyogenes MGAS10394, complete genome.	CP000003	ICESpy10394-1	1119537	1172028 
+ICEberg|409|ICESp1108|GenBank|FR691054|1694..47149 Streptococcus pyogenes integrative conjugative element ICESp1108, strain C1.	FR691054	ICESp1108	1694	47149 
+ICEberg|412|Tn1806|GenBank|CP002121|818751..870207 Streptococcus pneumoniae AP200, complete genome.	CP002121	Tn1806	818751	870207 
+ICEberg|413|ICEF-IA(M64)|GenBank|CP002458|405388..429165 Mycoplasma fermentans M64, complete genome.	CP002458	ICEF-IA(M64)	405388	429165 
+ICEberg|414|ICEF-IIIA1(M64)|GenBank|CP002458|89996..110805 Mycoplasma fermentans M64, complete genome.	CP002458	ICEF-IIIA1(M64)	89996	110805 
+ICEberg|415|ICEF-IIIA2(M64)|GenBank|CP002458|226880..247031 Mycoplasma fermentans M64, complete genome.	CP002458	ICEF-IIIA2(M64)	226880	247031 
+ICEberg|416|ICEF-IIA(M64)|GenBank|CP002458|487971..510302 Mycoplasma fermentans M64, complete genome.	CP002458	ICEF-IIA(M64)	487971	510302 
+ICEberg|417|ICEF-IIIB(M64)|GenBank|CP002458|510667..530988 Mycoplasma fermentans M64, complete genome.	CP002458	ICEF-IIIB(M64)	510667	530988 
+ICEberg|418|ICEF-IIC(M64)|GenBank|CP002458|833547..855878 Mycoplasma fermentans M64, complete genome.	CP002458	ICEF-IIC(M64)	833547	855878 
+ICEberg|419|ICEF-IIB(M64)|GenBank|CP002458|885907..908238 Mycoplasma fermentans M64, complete genome.	CP002458	ICEF-IIB(M64)	885907	908238 
+ICEberg|423|6180-RD.0|GenBank|CP000056|799411..814679 Streptococcus pyogenes MGAS6180, complete genome.	CP000056	6180-RD.0	799411	814679 
+ICEberg|426|Tn5801(B6)|GenBank|FN568063|1320241..1344513 Streptococcus mitis B6 complete genome, strain B6.	FN568063	Tn5801(B6)	1320241	1344513 
+ICEberg|432|ICESpnD39-1|GenBank|CP000410|926620..963005 Streptococcus pneumoniae D39, complete genome.	CP000410	ICESpnD39-1	926620	963005 
+ICEberg|433|ICESpnR6-1|GenBank|AE007317|919089..955474 Streptococcus pneumoniae R6, complete genome.	AE007317	ICESpnR6-1	919089	955474 
+ICEberg|434|ICESpnTIGR4-1|GenBank|AE005672|972255..1000373 Streptococcus pneumoniae TIGR4, complete genome.	AE005672	ICESpnTIGR4-1	972255	1000373 
+ICEberg|1|BTF-37|GenBank|AF412330|1..4043 Bacteroides fragilis clone 38-F transposon Tet element BTF-37, partial sequence.	AF412330	BTF-37	1	4043 
+ICEberg|1|BTF-37|GenBank|AF412331|1..3281 Bacteroides fragilis clone Sau3A1 transposon Tet element BTF-37, partial sequence.	AF412331	BTF-37	1	3281 
+ICEberg|3|CTnDOT|GenBank|AF289050|1..16256 Bacteroides thetaiotaomicron conjugative transposon CTnDOT, transfer region.	AF289050	CTnDOT	1	16256 
+ICEberg|3|CTnDOT|GenBank|AJ431573|1..7655 Bacteroides thetaiotaomicron transposon CTnDOT, xis2c, xis2d, exc and rteR genes, ORF2A, ORF2B, ORF3, ORF2E and ORF4A.	AJ431573	CTnDOT	1	7655 
+ICEberg|3|CTnDOT|GenBank|AJ319661|1..3718 Bacteroides sp. conjugative transposon CTnDOT ORF3 and exc.	AJ319661	CTnDOT	1	3718 
+ICEberg|3|CTnDOT|GenBank|AJ311171|1..16764 Bacteroides thetaiotaomicron transposon CTnDOT ermF region.	AJ311171	CTnDOT	1	16764 
+ICEberg|8|ICEVchBan1|GenBank|EF434279|1..143 Vibrio cholerae O1 ICEVchBan1 TraG (traG) gene, partial cds.	EF434279	ICEVchBan1	1	143 
+ICEberg|8|ICEVchBan1|GenBank|EF434302|1..432 Vibrio cholerae O1 ICEVchBan1 EexR1 (eexR1) gene, complete cds.	EF434302	ICEVchBan1	1	432 
+ICEberg|9|ICEVchBan2|GenBank|EF434288|1..144 Vibrio cholerae O1 ICEVchBan2 TraG (traG) gene, partial cds.	EF434288	ICEVchBan2	1	144 
+ICEberg|9|ICEVchBan2|GenBank|EF434303|1..432 Vibrio cholerae O1 ICEVchBan2 EexR1 (eexR1) gene, complete cds.	EF434303	ICEVchBan2	1	432 
+ICEberg|10|ICEVchBan3|GenBank|EF434280|1..144 Vibrio cholerae O1 ICEVchBan3 TraG (traG) gene, partial cds.	EF434280	ICEVchBan3	1	144 
+ICEberg|10|ICEVchBan3|GenBank|EF434304|1..432 Vibrio cholerae O1 ICEVchBan3 EexR1 (eexR1) gene, complete cds.	EF434304	ICEVchBan3	1	432 
+ICEberg|11|ICEVchBan4|GenBank|EF434281|1..144 Vibrio cholerae O1 ICEVchBan4 TraG (traG) gene, partial cds.	EF434281	ICEVchBan4	1	144 
+ICEberg|11|ICEVchBan4|GenBank|EF434305|1..432 Vibrio cholerae O1 ICEVchBan4 EexR1 (eexR1) gene, complete cds.	EF434305	ICEVchBan4	1	432 
+ICEberg|13|ICEVchBan6|GenBank|EF434283|1..144 Vibrio cholerae O1 ICEVchBan6 TraG (traG) gene, partial cds.	EF434283	ICEVchBan6	1	144 
+ICEberg|13|ICEVchBan6|GenBank|EF434307|1..432 Vibrio cholerae O1 ICEVchBan6 EexR1 (eexR1) gene, complete cds.	EF434307	ICEVchBan6	1	432 
+ICEberg|14|ICEVchBan7|GenBank|EF434296|1..432 Vibrio cholerae O139 ICEVchBan7 EexS (eexS) gene, complete cds.	EF434296	ICEVchBan7	1	432 
+ICEberg|14|ICEVchBan7|GenBank|EF434294|1..144 Vibrio cholerae O139 ICEVchBan7 TraG (traG) gene, partial cds.	EF434294	ICEVchBan7	1	144 
+ICEberg|18|ICEVchInd1|GenBank|EF434290|1..144 Vibrio cholerae O1 ICEVchInd1 TraG (traG) gene, partial cds.	EF434290	ICEVchInd1	1	144 
+ICEberg|18|ICEVchInd1|GenBank|EF434308|1..432 Vibrio cholerae O1 ICEVchInd1 EexR1 (eexR1) gene, complete cds.	EF434308	ICEVchInd1	1	432 
+ICEberg|19|ICEVchInd2|GenBank|EF434284|1..144 Vibrio cholerae O1 ICEVchInd2 TraG (traG) gene, partial cds.	EF434284	ICEVchInd2	1	144 
+ICEberg|19|ICEVchInd2|GenBank|EF434309|1..432 Vibrio cholerae O1 ICEVchInd2 EexR1 (eexR1) gene, complete cds.	EF434309	ICEVchInd2	1	432 
+ICEberg|20|ICEVchInd3|GenBank|EF434285|1..144 Vibrio cholerae O1 ICEVchInd3 TraG (traG) gene, partial cds.	EF434285	ICEVchInd3	1	144 
+ICEberg|20|ICEVchInd3|GenBank|EF434310|1..432 Vibrio cholerae O1 ICEVchInd3 EexR1 (eexR1) gene, complete cds.	EF434310	ICEVchInd3	1	432 
+ICEberg|34|ICEVchSL1|GenBank|EF434278|1..144 Vibrio cholerae O139 ICEVchSL1 TraG (traG) gene, partial cds.	EF434278	ICEVchSL1	1	144 
+ICEberg|34|ICEVchSL1|GenBank|EF434301|1..432 Vibrio cholerae O139 ICEVchSL1 EexS5 (eexS5) gene, complete cds.	EF434301	ICEVchSL1	1	432 
+ICEberg|35|ICEVchVie1|GenBank|AB114188|1..23402 Vibrio cholerae DNA, integrating antibiotic resistance gene element.	AB114188	ICEVchVie1	1	23402 
+ICEberg|41|ICEPmiJpn1|GenBank|AB525230|1..422 Proteus mirabilis integrating conjugative element ICEPmiJpn1 prfC gene for peptide chain release factor 3, partial cds.	AB525230	ICEPmiJpn1	1	422 
+ICEberg|41|ICEPmiJpn1|GenBank|AB525229|1..1012 Proteus mirabilis integrating conjugative element ICEPmiJpn1 traG, eexS, setC genes fo sex pilus assembly protein, EexS protein, transcriptional activator, partial and complete cds.	AB525229	ICEPmiJpn1	1	1012 
+ICEberg|41|ICEPmiJpn1|GenBank|AB525228|1..4328 Proteus mirabilis integrating conjugative element ICEPmiJpn1 s073, jpn03, jpn04, traF genes for hypothetical proteins, sex pilus assembly protein, partial and complete cds.	AB525228	ICEPmiJpn1	1	4328 
+ICEberg|41|ICEPmiJpn1|GenBank|AB525227|1..1487 Proteus mirabilis integrating conjugative element ICEPmiJpn1 traN, orf64, orf65 genes for TraN, hypothetical proteins, partial and complete cds.	AB525227	ICEPmiJpn1	1	1487 
+ICEberg|41|ICEPmiJpn1|GenBank|AB525226|1..2029 Proteus mirabilis integrating conjugative element ICEPmiJpn1 s052, s053 genes for hypothetical protein, ync protein, complete cds.	AB525226	ICEPmiJpn1	1	2029 
+ICEberg|41|ICEPmiJpn1|GenBank|AB525225|1..1056 Proteus mirabilis integrating conjugative element ICEPmiJpn1 orf36, orf37, traL genes for hypothetical proteins, TraL, partial and complete cds.	AB525225	ICEPmiJpn1	1	1056 
+ICEberg|41|ICEPmiJpn1|GenBank|AB525688|230..41922 Proteus mirabilis DNA, integrating conjugative element ICEPmiJpn1, partial sequence.	AB525688	ICEPmiJpn1	230	41922 
+ICEberg|42|pMERPH|GenBank|AJ507319|1..585 Shewanella putrefaciens conjugative transposon pMERPH.	AJ507319	pMERPH	1	585 
+ICEberg|42|pMERPH|GenBank|AJ579925|1..277 Shewanella putrefaciens attP core attachment site.	AJ579925	pMERPH	1	277 
+ICEberg|42|pMERPH|GenBank|AJ579924|1..585 Shewanella putrefaciens partial ORF1 for putative transfer protein.	AJ579924	pMERPH	1	585 
+ICEberg|42|pMERPH|GenBank|AJ579923|1..1156 Shewanella putrefaciens partial int gene for putative integrase.	AJ579923	pMERPH	1	1156 
+ICEberg|42|pMERPH|GenBank|AJ634267|1..1242 Shewanella putrefaciens integrating element pMERPH int gene for putative integrase.	AJ634267	pMERPH	1	1242 
+ICEberg|42|pMERPH|GenBank|AJ579929|1..266 Shewanella putrefaciens partial ORF1 for putative conjugative transfer protein.	AJ579929	pMERPH	1	266 
+ICEberg|42|pMERPH|GenBank|AY157600|1..662 Shewanella putrefaciens conjugative integrating element pMERPH putative regulatory protein gene, complete cds.	AY157600	pMERPH	1	662 
+ICEberg|42|pMERPH|GenBank|EF434291|1..144 Shewanella putrefaciens pMERPH TraG (traG) gene, partial cds.	EF434291	pMERPH	1	144 
+ICEberg|57|ICEclc(JS705)|GenBank|AJ006307|1..12483 Ralstonia sp. JS705 clcR, clcA, mcbF, mcbAa, mcbAb, mcbAc, mcbAd and mcbB genes.	AJ006307	ICEclc(JS705)	1	12483 
+ICEberg|63|CTn86|GenBank|AY372755|1833..24985 Bacteroides fragilis 86-5443-2-2 ABC transporter permease protein (per) gene, complete cds; and conjugative transposon CTn86, partial sequence.	AY372755	CTn86	1833	24985 
+ICEberg|63|CTn86|GenBank|AY375536|1..4505 Bacteroides fragilis strain 86-5443-2-2 conjugative transposon CTn86, partial sequence; and putative Na+-driven multidrug efflux pump (bexB) gene, complete sequence.	AY375536	CTn86	1	4505 
+ICEberg|65|CTnGERM1|GenBank|AJ557257|1..18842 Bacteroides ovatus partial transposon CTnGERM1.	AJ557257	CTnGERM1	1	18842 
+ICEberg|73|ICEF-II|GenBank|AY168957|3187..5983 Mycoplasma fermentans hypothetical protein gene, partial cds; ORF406 gene, complete cds; insertion sequence ISMi1, and integrative conjugal element ICEF-IIB, partial sequence.	AY168957	ICEF-II	3187	5983 
+ICEberg|73|ICEF-II|GenBank|AY168956|1..5233 Mycoplasma fermentans integrative conjugal element ICEF-IIA, partial sequence; putative ABC transporter ATP-binding cassette protein gene, and IS3 family transposase (tnp) gene, partial cds; insertion sequence ISMf1, partial sequence.	AY168956	ICEF-II	1	5233 
+ICEberg|73|ICEF-II|GenBank|AY168955|1..10979 Mycoplasma fermentans strain PG18 ORF228 gene, complete cds; insertion sequence ISMf1, complete sequence; ORF700 gene, complete cds; ORF251 pseudogene and integrative conjugal element ICEF-IIA, partial sequence.	AY168955	ICEF-II	1	10979 
+ICEberg|73|ICEF-II|GenBank|AY168958|1..2710 Mycoplasma fermentans integrative conjugal element ICEF-IIB, insertion sequence ISMi1, and insertion sequence ISMf1, partial sequence.	AY168958	ICEF-II	1	2710 
+ICEberg|73|ICEF-II|GenBank|AY168965|1..4332 Mycoplasma fermentans strain PG18 integrative conjugal element ICEF-II internal fragment N5, partial sequence.	AY168965	ICEF-II	1	4332 
+ICEberg|73|ICEF-II|GenBank|AY168964|1..5565 Mycoplasma fermentans strain PG18 integrative conjugal element ICEF-II internal fragment N4, partial sequence.	AY168964	ICEF-II	1	5565 
+ICEberg|73|ICEF-II|GenBank|AY168963|1..4890 Mycoplasma fermentans strain PG18 integrative conjugal element ICEF-II internal fragment N3, partial sequence.	AY168963	ICEF-II	1	4890 
+ICEberg|73|ICEF-II|GenBank|AY168962|1..2847 Mycoplasma fermentans strain PG18 integrative conjugal element ICEF-II internal fragment N2, partial sequence.	AY168962	ICEF-II	1	2847 
+ICEberg|73|ICEF-II|GenBank|AY168961|1..4237 Mycoplasma fermentans strain PG18 integrative conjugal element ICEF-II internal fragment N1, partial sequence.	AY168961	ICEF-II	1	4237 
+ICEberg|73|ICEF-II|GenBank|AY168960|694..4355 Mycoplasma fermentans ORF472 gene, partial cds; integrative conjugal element ICEF-IIC, partial sequence.	AY168960	ICEF-II	694	4355 
+ICEberg|73|ICEF-II|GenBank|AY168959|1..1139 Mycoplasma fermentans integrative conjugal element ICEF-IIC, partial sequence; and ORF242 pseudogene, complete sequence.	AY168959	ICEF-II	1	1139 
+ICEberg|75|ICEMlSym(R7A)|GenBank|AL672114|1..149050 Mesorhizobium loti R7A symbiosis island; segment 3/4.	AL672114	ICEMlSym(R7A)	1	149050 
+ICEberg|75|ICEMlSym(R7A)|GenBank|AL672113|1..152050 Mesorhizobium loti R7A symbiosis island; segment 2/4.	AL672113	ICEMlSym(R7A)	1	152050 
+ICEberg|75|ICEMlSym(R7A)|GenBank|AL672112|1..150050 Mesorhizobium loti R7A symbiosis island; segment 1/4.	AL672112	ICEMlSym(R7A)	1	150050 
+ICEberg|75|ICEMlSym(R7A)|GenBank|AL672115|1..50801 Mesorhizobium loti R7A symbiosis island; segment 4/4.	AL672115	ICEMlSym(R7A)	1	50801 
+ICEberg|89|SXT(ET)|GenBank|AY035340|1..6202 Vibrio cholerae biovar eltor SXT(ET) constin locus resistance integron TraF (traF), site-specific tyrosine recombinase (intI9), and dihydrofolate reductase (dfrA1) genes, complete cds; and unknown genes.	AY035340	SXT(ET)	1	6202 
+ICEberg|91|Tn1545|GenBank|AM903082|1..7793 Streptococcus pneumoniae partial transposon Tn1545.	AM903082	Tn1545	1	7793 
+ICEberg|91|Tn1545|GenBank|AM889142|1..3589 Streptococcus pneumoniae partial transposon Tn1545, strain BM4200.	AM889142	Tn1545	1	3589 
+ICEberg|93|TcrEmr7853|GenBank|L42817|1..1076 Bacteroides thetaiotaomicron conjugal transposon Tcr Emr 7853, rRNA methyltransferase gene, complete cds.	L42817	TcrEmr7853	1	1076 
+ICEberg|95|Tn5252(partofTn5253)|GenBank|AF295925|1..9521 Streptococcus pneumoniae transposon Tn5252 Orf28, Orf27, Orf26, Orf25, Orf24, Orf23, Orf22, Orf21, and Orf20 genes, complete cds.	AF295925	Tn5252(partofTn5253)	1	9521 
+ICEberg|96|Tn5276|GenBank|L27649|1..2037 Lactococcus lactis excisionase (xis) gene, complete cds, integrase (int) gene, complete cds.	L27649	Tn5276	1	2037 
+ICEberg|96|Tn5276|GenBank|M84770|1..300 Lactococcus lactis left hand junction.	M84770	Tn5276	1	300 
+ICEberg|96|Tn5276|GenBank|M84769|1..300 Lactococcus lactis right hand junction.	M84769	Tn5276	1	300 
+ICEberg|101|Tn5385|GenBank|AF016233|1..1605 Enterococcus faecalis methyltransferase gene, partial cds; alkyl hydrogen peroxide reductase gene, complete cds; and thioredoxin reductase gene, partial cds.	AF016233	Tn5385	1	1605 
+ICEberg|104|Tn6009|GenBank|EU239355|1..17767 Klebsiella pneumoniae strain 41 transposon Tn6009, partial sequence.	EU239355	Tn6009	1	17767 
+ICEberg|104|Tn6009|GenBank|EU399632|1..1889 Klebsiella pneumoniae strain 41 transposon Tn6009 excisionase (xis-Tn) and integrase (int-Tn) genes, complete cds, and unknown gene.	EU399632	Tn6009	1	1889 
+ICEberg|105|Tn916S|GenBank|AY534326|1..2642 Streptococcus intermedius transposon Tn916S tetracycline resistance protein (tetS) gene, complete cds.	AY534326	Tn916S	1	2642 
+ICEberg|107|TnB1230|GenBank|AJ222769|1..11849 Butyrivibrio fibrisolvens partial transposon TnB1230.	AJ222769	TnB1230	1	11849 
+ICEberg|109|R997|GenBank|AJ580009|1..269 Proteus mirabilis partial setR gene for putative transcriptional regulator.	AJ580009	R997	1	269 
+ICEberg|109|R997|GenBank|AJ579930|1..266 Proteus mirabilis partial ORF1 for putative conjugative transfer protein.	AJ579930	R997	1	266 
+ICEberg|109|R997|GenBank|AJ579928|1..608 Proteus mirabilis partial ORF1 for putative transfer protein.	AJ579928	R997	1	608 
+ICEberg|109|R997|GenBank|AJ579927|1..1106 Proteus mirabilis partial int gene for putative integrase.	AJ579927	R997	1	1106 
+ICEberg|109|R997|GenBank|AJ579926|1..277 Proteus mirabilis attP core attachment site.	AJ579926	R997	1	277 
+ICEberg|109|R997|GenBank|AM412759|1..201 Proteus mirabilis jef gene for putative excisionase.	AM412759	R997	1	201 
+ICEberg|109|R997|GenBank|EF434299|1..432 Proteus mirabilis R997 EexS2 (eexS2) gene, complete cds.	EF434299	R997	1	432 
+ICEberg|109|R997|GenBank|EF434292|1..144 Proteus mirabilis R997 TraG (traG) gene, partial cds.	EF434292	R997	1	144 
+ICEberg|110|bph-sal|GenBank|AY275274|1..1896 Pseudomonas putida strain KF715 transposon bph-sal element integrase (int) gene, complete cds.	AY275274	bph-sal	1	1896 
+ICEberg|110|bph-sal|GenBank|AY294313|1..11911 Pseudomonas putida NahR (nahR), complete cds; and salicylate degradation gene cluster, complete sequence.	AY294313	bph-sal	1	11911 
+ICEberg|117|pSAM2|GenBank|A09946|1..1560 S.ambofaciens pSAM2 DNA xis and int genes for excision protein and integrase.	A09946	pSAM2	1	1560 
+ICEberg|117|pSAM2|GenBank|AF004315|1..250 Streptomyces ambofaciens plasmid pSAM2 attachment region attP sequence.	AF004315	pSAM2	1	250 
+ICEberg|117|pSAM2|GenBank|AJ005260|1..8820 Streptomyces ambofaciens integrative element pSAM2.	AJ005260	pSAM2	1	8820 
+ICEberg|117|pSAM2|GenBank|M22963|1..180 S.ambofaciens integrated element pSAM2, attachment region attP DNA.	M22963	pSAM2	1	180 
+ICEberg|117|pSAM2|GenBank|M22966|1..180 S.ambofaciens integrated element pSAM2, attachment region attL DNA.	M22966	pSAM2	1	180 
+ICEberg|117|pSAM2|GenBank|M22965|1..180 S.ambofaciens integrated element pSAM2, attachment region attR DNA.	M22965	pSAM2	1	180 
+ICEberg|117|pSAM2|GenBank|M22964|1..180 S.ambofaciens integrated element pSAM2, attachment region attB DNA.	M22964	pSAM2	1	180 
+ICEberg|117|pSAM2|GenBank|Z19594|1..2536 S.ambofaciens plasmid pSAM2 genes for Orf183, Orf50, RepSA, and Xis.	Z19594	pSAM2	1	2536 
+ICEberg|117|pSAM2|GenBank|Z19593|1..2854 S.ambofaciens plasmid pSAM2 genes for TraSA, SpdA, SpdB, SpdC and SpdD.	Z19593	pSAM2	1	2854 
+ICEberg|117|pSAM2|GenBank|Z19589|1..1205 S.ambofaciens plasmid pSAM2 gene encoding KorSA.	Z19589	pSAM2	1	1205 
+ICEberg|117|pSAM2|GenBank|X14899|1..1632 Streptomyces ambofaciens pSAM2 plasmid xis and int genes.	X14899	pSAM2	1	1632 
+ICEberg|124|pRS01|GenBank|U50902|1..12851 Lactococcus lactis subsp. lactis plasmid pRS01 LtrM (ltrM), LtrC (ltrC), LtrD (ltrD), LtrE (ltrE), LtrF (ltrF), relaxase (ltrB), and putative maturase (ltrA) genes, complete cds.	U50902	pRS01	1	12851 
+ICEberg|125|CW459tet(M)|GenBank|AF329848|1..8691 Clostridium perfringens transposon CW459tet(M), partial sequence.	AF329848	CW459tet(M)	1	8691 
+ICEberg|136|ICEVchLao1|GenBank|AB115497|1..4851 Vibrio cholerae gene for putative exonuclease, putative helicase, complete cds.	AB115497	ICEVchLao1	1	4851 
+ICEberg|136|ICEVchLao1|GenBank|AB185252|1..1060 Vibrio cholerae genes for hypothetical proteins, complete cds, similar to orf38 and orf37 from Providencia rettgeri conjugative genomic island R391.	AB185252	ICEVchLao1	1	1060 
+ICEberg|136|ICEVchLao1|GenBank|AB186353|1..2206 Vibrio cholerae genes for hypothetical protein, hypothetical protein, complete cds.	AB186353	ICEVchLao1	1	2206 
+ICEberg|139|ICEVchVie0|GenBank|DQ499467|1..3768 Vibrio cholerae putative transposase (tnp), truncated transposase (tnpA), and unknown (s021) genes, complete cds; disrupted rumB gene, compete sequence; and UV repair protein (rumA) gene, partial cds.	DQ499467	ICEVchVie0	1	3768 
+ICEberg|142|R392|GenBank|AJ634264|1..1242 Providencia rettgeri integrating element R392 int gene for putative integrase.	AJ634264	R392	1	1242 
+ICEberg|144|R705|GenBank|AM412758|1..201 Proteus vulgaris jef gene for putative excisionase.	AM412758	R705	1	201 
+ICEberg|144|R705|GenBank|AJ634265|1..1242 Proteus vulgaris integrating element R705 int gene for putative integrase.	AJ634265	R705	1	1242 
+ICEberg|144|R705|GenBank|AJ634261|1..459 Proteus vulgaris attP region.	AJ634261	R705	1	459 
+ICEberg|149|ICEVflH-08942|GenBank|AB124846|1..1242 Vibrio fluvialis SXT transposon-like element int gene for integrase, complete cds.	AB124846	ICEVflH-08942	1	1242 
+ICEberg|149|ICEVflH-08942|GenBank|AB125369|1..641 Vibrio fluvialis DNA, attP core attachment site.	AB125369	ICEVflH-08942	1	641 
+ICEberg|151|pSG1|GenBank|M86369|1..1168 Streptomyces griseus integrated plasmid pSG1, partial sequence.	M86369	pSG1	1	1168 
+ICEberg|151|pSG1|GenBank|M86368|1..1481 Streptomyces griseus integrated plasmid pSG1 tRNA-Ser gene, partial sequence; and unknown gene.	M86368	pSG1	1	1481 
+ICEberg|243|ICELlapAA211|GenBank|DQ060148|1..2630 Lactococcus lactis subsp. lactis plasmid pAA211 transposon Tn916 TetM leader peptide and TetM genes, complete cds.	DQ060148	ICELlapAA211	1	2630 
+ICEberg|244|ICELlapAA291|GenBank|DQ060147|1..2630 Lactococcus lactis subsp. lactis plasmid pAA291 transposon Tn916 TetM leader peptide and TetM genes, complete cds.	DQ060147	ICELlapAA291	1	2630 
+ICEberg|245|ICESau8797|GenBank|EU918661|1..2607 Staphylococcus aureus strain 8797 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918661	ICESau8797	1	2607 
+ICEberg|246|ICESau21995|GenBank|EU918662|1..2607 Staphylococcus aureus strain 21995 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918662	ICESau21995	1	2607 
+ICEberg|247|ICESau35366|GenBank|EU918668|1..2606 Staphylococcus aureus strain 35366 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918668	ICESau35366	1	2606 
+ICEberg|248|ICESau7413093|GenBank|EU918679|1..2604 Staphylococcus aureus strain 7413093-4 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918679	ICESau7413093	1	2604 
+ICEberg|249|ICESau7512166|GenBank|EU918684|1..2606 Staphylococcus aureus strain 7512166-1 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918684	ICESau7512166	1	2606 
+ICEberg|250|ICESau7312330|GenBank|EU918677|1..2600 Staphylococcus aureus strain 7312330-1 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918677	ICESau7312330	1	2600 
+ICEberg|251|ICESau9877324|GenBank|EU918671|1..2599 Staphylococcus aureus strain 9877324-3_H39 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918671	ICESau9877324	1	2599 
+ICEberg|252|ICESau35679|GenBank|EU918670|1..2599 Staphylococcus aureus strain 35679 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918670	ICESau35679	1	2599 
+ICEberg|253|ICESau7412791|GenBank|EU918678|1..2598 Staphylococcus aureus strain 7412791-1 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918678	ICESau7412791	1	2598 
+ICEberg|254|ICESau7215311|GenBank|EU918675|1..2598 Staphylococcus aureus strain 7215311-1 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918675	ICESau7215311	1	2598 
+ICEberg|255|ICESausw356|GenBank|EU918672|1..2598 Staphylococcus aureus strain sw356 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918672	ICESausw356	1	2598 
+ICEberg|256|ICESau7711730|GenBank|EU918690|1..2596 Staphylococcus aureus strain 7711730-1 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918690	ICESau7711730	1	2596 
+ICEberg|257|ICESau7413714|GenBank|EU918681|1..2595 Staphylococcus aureus strain 7413714-1 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918681	ICESau7413714	1	2595 
+ICEberg|258|ICESau7512986|GenBank|EU918685|1..2594 Staphylococcus aureus strain 7512986-1 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918685	ICESau7512986	1	2594 
+ICEberg|259|ICESau7612628|GenBank|EU918689|1..2593 Staphylococcus aureus strain 7612628-4 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918689	ICESau7612628	1	2593 
+ICEberg|260|ICESau35414|GenBank|EU918669|1..2596 Staphylococcus aureus strain 35414 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918669	ICESau35414	1	2596 
+ICEberg|261|ICESau1591|GenBank|EU918654|1..2599 Staphylococcus aureus strain 1591 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918654	ICESau1591	1	2599 
+ICEberg|262|ICESauST398|GenBank|EU918691|1..2588 Staphylococcus aureus strain MRSA_ST398_9b transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918691	ICESauST398	1	2588 
+ICEberg|263|ICESau34801|GenBank|EU918667|1..2600 Staphylococcus aureus strain 34801 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918667	ICESau34801	1	2600 
+ICEberg|264|ICESau617|GenBank|EU918653|1..2596 Staphylococcus aureus strain 617 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918653	ICESau617	1	2596 
+ICEberg|265|ICESau5377|GenBank|EU918660|1..2617 Staphylococcus aureus strain 5377 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918660	ICESau5377	1	2617 
+ICEberg|266|ICESauusa42|GenBank|EU918673|1..2542 Staphylococcus aureus strain usa42 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918673	ICESauusa42	1	2542 
+ICEberg|267|ICESau7611280|GenBank|EU918686|1..2536 Staphylococcus aureus strain 7611280-5 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918686	ICESau7611280	1	2536 
+ICEberg|268|ICESau7215190|GenBank|EU918674|1..2535 Staphylococcus aureus strain 7215190-1 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918674	ICESau7215190	1	2535 
+ICEberg|269|ICESau22034|GenBank|EU918663|1..2601 Staphylococcus aureus strain 22034 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918663	ICESau22034	1	2601 
+ICEberg|270|ICESau5331|GenBank|EU918659|1..2598 Staphylococcus aureus strain 5331 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918659	ICESau5331	1	2598 
+ICEberg|271|ICESau4865|GenBank|EU918658|1..2598 Staphylococcus aureus strain 4865 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918658	ICESau4865	1	2598 
+ICEberg|272|ICESau4520|GenBank|EU918657|1..2598 Staphylococcus aureus strain 4520 transposon Tn916-like tetracycline resistance protein (tetM) gene, complete cds.	EU918657	ICESau4520	1	2598 
+ICEberg|274|SXT(MCV09)|GenBank|GQ495075|1..1242 Vibrio cholerae strain MCV09 transposon SXT element integrase (int) gene, complete cds.	GQ495075	SXT(MCV09)	1	1242 
+ICEberg|330|Tn3872|GenBank|AM411624|1..4357 Streptococcus pyogenes partial transposon Tn3872, isolate C-105.	AM411624	Tn3872	1	4357 
+ICEberg|362|Tn1311|GenBank|FN667862|1..75303 Streptococcus pneumoniae transposon Tn1311, strain SpnF21.	FN667862	Tn1311	1	75303 
+ICEberg|363|ICESpnA213|GenBank|FM201786|1..67819 Streptococcus pneumoniae partial Tn5253-like transposon, strain SpnA213.	FM201786	ICESpnA213	1	67819 
+ICEberg|365|ICESpnKD6|GenBank|EU676262|1..1026 Streptococcus pneumoniae strain KD6 transposon Tn5252, partial sequence.	EU676262	ICESpnKD6	1	1026 
+ICEberg|365|ICESpnKD6|GenBank|EU676257|1..733 Streptococcus pneumoniae strain KD6 transposon Tn5252, partial sequence.	EU676257	ICESpnKD6	1	733 
+ICEberg|365|ICESpnKD6|GenBank|EU676252|1..951 Streptococcus pneumoniae strain KD6 transposon Tn916, partial sequence.	EU676252	ICESpnKD6	1	951 
+ICEberg|365|ICESpnKD6|GenBank|EU676247|1..359 Streptococcus pneumoniae strain KD6 transposon Tn5252, partial sequence.	EU676247	ICESpnKD6	1	359 
+ICEberg|366|ICESpnN24|GenBank|EU676261|1..1026 Streptococcus pneumoniae strain N24 transposon Tn5252, partial sequence.	EU676261	ICESpnN24	1	1026 
+ICEberg|366|ICESpnN24|GenBank|EU676256|1..732 Streptococcus pneumoniae strain N24 transposon Tn5252, partial sequence.	EU676256	ICESpnN24	1	732 
+ICEberg|366|ICESpnN24|GenBank|EU676251|1..951 Streptococcus pneumoniae strain N24 transposon Tn916, partial sequence.	EU676251	ICESpnN24	1	951 
+ICEberg|366|ICESpnN24|GenBank|EU676246|1..359 Streptococcus pneumoniae strain N24 transposon Tn5252, partial sequence.	EU676246	ICESpnN24	1	359 
+ICEberg|367|ICESpnJ93183|GenBank|EU676260|1..1026 Streptococcus pneumoniae strain J93/183 transposon Tn5252, partial sequence.	EU676260	ICESpnJ93183	1	1026 
+ICEberg|367|ICESpnJ93183|GenBank|EU676255|1..733 Streptococcus pneumoniae strain J93/183 transposon Tn5252, partial sequence.	EU676255	ICESpnJ93183	1	733 
+ICEberg|367|ICESpnJ93183|GenBank|EU676245|1..359 Streptococcus pneumoniae strain J93/183 transposon Tn5252, partial sequence.	EU676245	ICESpnJ93183	1	359 
+ICEberg|367|ICESpnJ93183|GenBank|EU676250|1..951 Streptococcus pneumoniae strain J93/183 transposon Tn916, partial sequence.	EU676250	ICESpnJ93183	1	951 
+ICEberg|368|ICESpnJ93292|GenBank|EU676259|1..1026 Streptococcus pneumoniae strain J93/292 transposon Tn5252, partial sequence.	EU676259	ICESpnJ93292	1	1026 
+ICEberg|368|ICESpnJ93292|GenBank|EU676254|1..733 Streptococcus pneumoniae strain J93/292 transposon Tn5252, partial sequence.	EU676254	ICESpnJ93292	1	733 
+ICEberg|368|ICESpnJ93292|GenBank|EU676249|1..951 Streptococcus pneumoniae strain J93/292 transposon Tn916, partial sequence.	EU676249	ICESpnJ93292	1	951 
+ICEberg|368|ICESpnJ93292|GenBank|EU676244|1..359 Streptococcus pneumoniae strain J93/292 transposon Tn5252, partial sequence.	EU676244	ICESpnJ93292	1	359 
+ICEberg|369|ICESpn2531|GenBank|EU676258|1..1026 Streptococcus pneumoniae strain PN02/2531 transposon Tn5252, partial sequence.	EU676258	ICESpn2531	1	1026 
+ICEberg|369|ICESpn2531|GenBank|EU676253|1..733 Streptococcus pneumoniae strain PN02/2531 transposon Tn5252, partial sequence.	EU676253	ICESpn2531	1	733 
+ICEberg|369|ICESpn2531|GenBank|EU676248|1..951 Streptococcus pneumoniae strain PN02/2531 transposon Tn916, partial sequence.	EU676248	ICESpn2531	1	951 
+ICEberg|369|ICESpn2531|GenBank|EU676243|1..359 Streptococcus pneumoniae strain PN02/2531 transposon Tn5252, partial sequence.	EU676243	ICESpn2531	1	359 
+ICEberg|370|Tn5252(SP1000)|GenBank|L29323|1..3565 Streptococcus pneumoniae methyl transferase gene cluster, complete sequence.	L29323	Tn5252(SP1000)	1	3565 
+ICEberg|370|Tn5252(SP1000)|GenBank|L29324|1..8537 Streptococcus pneumoniae integrase, excisionase, repressor protein, relaxase, UmuC MucB homolog, and UmuD MucA homolog genes, complete cds; and unknown genes.	L29324	Tn5252(SP1000)	1	8537 
+ICEberg|382|Tn5382(5-F9)|GenBank|AY035703|1..438 Streptococcus lutetiensis strain 5-F9 Tn5382-like transposon ligase VanB2 (vanB2) gene, partial cds.	AY035703	Tn5382(5-F9)	1	438 
+ICEberg|383|ICEEfa9830414|GenBank|DQ206711|1..5069 Enterococcus faecium isolate 9830414-1 transposon Tn5397-like conjugative transposon, partial sequence.	DQ206711	ICEEfa9830414	1	5069 
+ICEberg|404|Tn5301|GenBank|S54023|1..500 {junction sites, nisin biosynthetic genes} [Lactococcus lactis, strain FI5876, Tn5301, Transposon, 500 nt, segment 1 of 2].	S54023	Tn5301	1	500 
+ICEberg|404|Tn5301|GenBank|S54034|1..515 {junction sites, nisin biosynthetic genes} [Lactococcus lactis, strain FI5876, Tn5301, Transposon, 515 nt, segment 2 of 2].	S54034	Tn5301	1	515 
+ICEberg|214|AICESco3250|GenBank|AL645882|3602684..3616798 Streptomyces coelicolor A3(2) complete genome.	AL645882	AICESco3250	3602684	3616798 
+ICEberg|215|AICESco5349|GenBank|AL645882|5796736..5818720 Streptomyces coelicolor A3(2) complete genome.	AL645882	AICESco5349	5796736	5818720 
+ICEberg|394|Tn6098|GenBank|CP001834|2295682..2347036 Lactococcus lactis subsp. lactis KF147, complete genome.	CP001834	Tn6098	2295682	2347036 
